@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="CLionProjects" targetName="CLionProjects" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c65e33af-b3f4-4d57-9fb9-16027dccfb9b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CTDLVGT/SS15" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="1.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ya8SbpNFQ7vOC3oALnxn1rXJxN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.B1.c.executor": "Run",
+    "C/C++ File.B2.c.executor": "Run",
+    "C/C++ File.HN_CNTT5_IT201_Session13_Bai1.c.executor": "Run",
+    "C/C++ File.HN_CNTT5_IT201_Session13_Bai2.c.executor": "Run",
+    "C/C++ File.HN_CNTT5_IT201_Session13_Bai3.c.executor": "Run",
+    "C/C++ File.HN_CNTT5_IT201_Session13_Bai4.c.executor": "Run",
+    "C/C++ File.HN_CNTT5_IT201_Session13_Bai5.c.executor": "Run",
+    "C/C++ File.HN_CNTT5_IT201_Session13_Bai6.c.executor": "Run",
+    "C/C++ File.HN_JPN_KS24A_PhamThaiSon_D7.c.executor": "Run",
+    "C/C++ File.HN_JPN_KS24A_PhamThaiSon_D9.c.executor": "Run",
+    "C/C++ File.HN_JPN_KS24A_PhamThaiSon_D9_B1.c.executor": "Run",
+    "C/C++ File.OnHackAthon.c.executor": "Run",
+    "C/C++ File.On_tap.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session10_Bai2.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session10_Bai3.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session10_Bai4.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session10_Bai5.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session10_Bai6.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session10_Bai7.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session11_Bai1.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session11_Bai2.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session11_Bai3.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session11_Bai4.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session11_Bai5.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session11_Bai6.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session11_Bai7.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session12_Bai1.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session12_Bai2.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session12_Bai3.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session12_Bai4.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session12_Bai5.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session12_Bai6.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session12_Bai7.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session14_Bai2.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session14_Bai3.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session14_Bai4.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session15_Bai1.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session15_Bai2.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session15_Bai3.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session15_Bai4.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session15_Bai5.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session15_Bai6.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session2_Bai7.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session2_Bai8.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session5_Bai1.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session5_Bai2.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session5_Bai3.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session5_Bai4.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session5_Bai5.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session5_Bai6.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session5_Bai7.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session5_Bai9.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session6_Bai1.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session6_Bai2.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session6_Bai3.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session6_Bai4.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session6_Bai5.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session7_Bai1.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session7_Bai2.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session7_Bai3.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session7_Bai5.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session7_Bai6.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session7_Bai7.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session7_Bai8.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session8_Bai1.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session8_Bai2.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session8_Bai3.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session8_Bai5.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session8_Bai8.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session9_Bai1.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session9_Bai2.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session9_Bai3.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session9_Bai4.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session9_Bai5.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session9_Bai6.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT201_Session9_Bai8.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session2_Bai1.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session2_Bai2.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session2_Bai3.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session2_Bai4.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session2_Bai5.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session2_Bai6.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session2_Bai7.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session3_Bai1.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session3_Bai2.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session3_Bai3.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session3_Bai4.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session3_Bai5.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session3_Bai7.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session4_Bai1.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session4_Bai2.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session4_Bai3.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session4_Bai4.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session4_Bai5.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session4_Bai6.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session4_Bai7.c.executor": "Run",
+    "C/C++ File.PTIT_CNTT5_IT241_Session4_Bai8.c.executor": "Run",
+    "C/C++ File.b4_ss1.c.executor": "Run",
+    "C/C++ File.b5_ss1.c.executor": "Run",
+    "CMake Application.CLionProjects.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/CLionProjects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/CLionProjects/main.cpp",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CLionProjects\CTDLVGT\SS4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CLionProjects\CTDLVGT\SS1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.HN_JPN_KS24A_PhamThaiSon_D9_B1.c">
+    <configuration name="CLionProjects" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="CLionProjects" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CLionProjects" RUN_TARGET_NAME="CLionProjects">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="B1.c" CONFIG_NAME="B1.c">
+      <option name="sourceFile" value="CTDLVGT\On_HackAthon\B1.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="B2.c" CONFIG_NAME="B2.c">
+      <option name="sourceFile" value="CTDLVGT\On_HackAthon\B2.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HN_JPN_KS24A_PhamThaiSon_D7.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="HN_JPN_KS24A_PhamThaiSon_D7.c" CONFIG_NAME="HN_JPN_KS24A_PhamThaiSon_D7.c">
+      <option name="sourceFile" value="HN_JPN_KS24CNTT5_PhamThaiSon\HN_JPN_KS24A_PhamThaiSon_D7.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HN_JPN_KS24A_PhamThaiSon_D9_B1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="HN_JPN_KS24A_PhamThaiSon_D9_B1.c" CONFIG_NAME="HN_JPN_KS24A_PhamThaiSon_D9_B1.c">
+      <option name="sourceFile" value="HN_JPN_KS24CNTT5_PhamThaiSon_D9\HN_JPN_KS24A_PhamThaiSon_D9_B1.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HN_JPN_KS24A_PhamThaiSon_D9.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionProjects" TARGET_NAME="HN_JPN_KS24A_PhamThaiSon_D9.c" CONFIG_NAME="HN_JPN_KS24A_PhamThaiSon_D9.c">
+      <option name="sourceFile" value="HN_JPN_KS24CNTT5_PhamThaiSon_D9\HN_JPN_KS24A_PhamThaiSon_D9.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.HN_JPN_KS24A_PhamThaiSon_D7.c" />
+      <item itemvalue="C/C++ File.HN_JPN_KS24A_PhamThaiSon_D9.c" />
+      <item itemvalue="C/C++ File.HN_JPN_KS24A_PhamThaiSon_D9_B1.c" />
+      <item itemvalue="C/C++ File.B1.c" />
+      <item itemvalue="C/C++ File.B2.c" />
+      <item itemvalue="CMake Application.CLionProjects" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.HN_JPN_KS24A_PhamThaiSon_D9_B1.c" />
+        <item itemvalue="C/C++ File.HN_JPN_KS24A_PhamThaiSon_D9.c" />
+        <item itemvalue="C/C++ File.HN_JPN_KS24A_PhamThaiSon_D7.c" />
+        <item itemvalue="C/C++ File.B1.c" />
+        <item itemvalue="C/C++ File.B2.c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c65e33af-b3f4-4d57-9fb9-16027dccfb9b" name="Changes" comment="" />
+      <created>1750061325531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750061325531</updated>
+      <workItem from="1750061328774" duration="8201000" />
+      <workItem from="1750140534984" duration="64000" />
+      <workItem from="1750140947691" duration="992000" />
+      <workItem from="1750141961651" duration="59000" />
+      <workItem from="1750142535636" duration="13080000" />
+      <workItem from="1750383458641" duration="480000" />
+      <workItem from="1750434421936" duration="7021000" />
+      <workItem from="1750529023375" duration="2640000" />
+      <workItem from="1750831430483" duration="14065000" />
+      <workItem from="1750917978128" duration="9472000" />
+      <workItem from="1750982895599" duration="6393000" />
+      <workItem from="1751207091461" duration="2416000" />
+      <workItem from="1751266790503" duration="9869000" />
+      <workItem from="1751355296876" duration="24000" />
+      <workItem from="1751355336117" duration="5999000" />
+      <workItem from="1751377468236" duration="174000" />
+      <workItem from="1751443696502" duration="11538000" />
+      <workItem from="1751526895266" duration="56000" />
+      <workItem from="1751527264740" duration="8752000" />
+      <workItem from="1751618457302" duration="3158000" />
+      <workItem from="1751730491622" duration="1678000" />
+      <workItem from="1751871338181" duration="13712000" />
+      <workItem from="1751963101991" duration="11408000" />
+      <workItem from="1752066008467" duration="8045000" />
+      <workItem from="1752141237266" duration="8145000" />
+      <workItem from="1752158661926" duration="4263000" />
+      <workItem from="1752222163478" duration="141000" />
+      <workItem from="1752222321056" duration="12275000" />
+      <workItem from="1752316258426" duration="2234000" />
+      <workItem from="1752473953288" duration="28948000" />
+      <workItem from="1752712845864" duration="6900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
