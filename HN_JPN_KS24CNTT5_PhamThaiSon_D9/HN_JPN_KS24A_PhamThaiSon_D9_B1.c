@@ -198,7 +198,7 @@ void searchProduct() {
     SNodeProduct *temp = head;
     int count = 0;
     while (temp != NULL) {
-        if (strcmp(temp->product.name, name) == 0) {
+        if (strstr(temp->product.name, name) != NULL) {
             printf("Id: %d | Name: %s | Price: %.3f | Quantity: %d",
                 temp->product.id, temp->product.name, temp->product.price, temp->product.quantity);
             count++;
