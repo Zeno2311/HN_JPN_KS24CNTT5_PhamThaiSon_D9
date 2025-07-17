@@ -28,7 +28,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c65e33af-b3f4-4d57-9fb9-16027dccfb9b" name="Changes" comment="" />
+    <list default="true" id="c65e33af-b3f4-4d57-9fb9-16027dccfb9b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +41,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CTDLVGT/SS15" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -281,7 +283,7 @@
       <workItem from="1752222321056" duration="12275000" />
       <workItem from="1752316258426" duration="2234000" />
       <workItem from="1752473953288" duration="28948000" />
-      <workItem from="1752712845864" duration="6900000" />
+      <workItem from="1752712845864" duration="7333000" />
     </task>
     <servers />
   </component>

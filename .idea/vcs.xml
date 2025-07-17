@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/CTDLVGT/SS1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CTDLVGT/SS10" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CTDLVGT/SS11" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CTDLVGT/SS12" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CTDLVGT/SS13" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CTDLVGT/SS14" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CTDLVGT/SS15" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CTDLVGT/SS2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CTDLVGT/SS3" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CTDLVGT/SS4" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CTDLVGT/SS5" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CTDLVGT/SS6" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CTDLVGT/SS7" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CTDLVGT/SS8" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CTDLVGT/SS9" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>

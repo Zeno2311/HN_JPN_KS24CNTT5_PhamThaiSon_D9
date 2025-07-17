@@ -120,7 +120,7 @@ void updataSnodeProduct() {
     printf("Nhap Id san pham ban can cap nhat: ");
     scanf("%d", &id);
     SNodeProduct *temp = head;
-    while (temp != NULL) {
+    while (temp != NULL && temp->product.id != id) {
         temp = temp->next;
     }
     if (temp == NULL) {
